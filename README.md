@@ -1,4 +1,4 @@
-# payment-gateways
+# payment gateways and payment service providers
 A list of top payment gateways for making online payment integration easy.
 
 * [Adyen](https://adyen.com/)
